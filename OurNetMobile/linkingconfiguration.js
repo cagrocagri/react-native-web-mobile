@@ -4,6 +4,8 @@ export default {
     screens: {
       Home: "home",
       Agenda: "agenda",
+      Sport: "sport",
+      Economy: "economy",
     },
   },
 };

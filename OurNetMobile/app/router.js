@@ -1,6 +1,4 @@
-import { Button, ScrollView, StatusBar, View } from "react-native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
 import { Ionicons } from "@expo/vector-icons";
 import { COLORS, icons } from "./shared/constants";
@@ -12,7 +10,6 @@ import Economy from "./screens/economy";
 import { SafeAreaProvider } from "react-native-safe-area-context";
 
 const Tab = createBottomTabNavigator();
-const Stack = createNativeStackNavigator();
 
 const home = "Ana Sayfa";
 const agenda = "Gündem";
