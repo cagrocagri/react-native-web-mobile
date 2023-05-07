@@ -1,0 +1,10 @@
+.resizeNavbar {
+    position: relative;
+    max-height: 60px;
+    margin-bottom: 20px;
+}
+
+.resizeButton {
+    max-height: 38px;
+    display: inline;
+}

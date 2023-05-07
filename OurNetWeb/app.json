@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "FastNews",
+    "slug": "FastNews",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "FastNews",
+  "displayName": "FastNews"
+}

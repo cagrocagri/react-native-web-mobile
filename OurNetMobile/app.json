@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "FastNewsMobile",
+    "displayName": "FastNewsMobile",
+    "slug": "fast-news-mobile",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.cagrigul.fastnews",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.cagrigul.fastnews",
+      "versionCode": 1
+    }
+  }
+}
